@@ -1,2 +1,2 @@
-# je-vocabulary-book
+# vocabulary-book
 单词本
